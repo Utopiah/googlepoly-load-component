@@ -14,6 +14,6 @@ Optionally you can load via URL using the gpolyid parameter.
 
   <!-- That expensive chair by Vladimir Iiirc aka VR_Human : https://poly.google.com/view/5osCtu2pLwv -->
   <!-- make sure to use your API key if you remix this glitch -->
-  <a-entity position="0 0.5 -5" gpoly="polyid:5osCtu2pLwv; API_KEY:AIzaSyBCtDoNAm02z4gojPse0vl7m5Gro9UjeOQ;"></a-entity>
+  <a-entity position="0 0.5 -5" gpoly="polyid:5osCtu2pLwv; API_KEY:;"></a-entity>
 
 ```
